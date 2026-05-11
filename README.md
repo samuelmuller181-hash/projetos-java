@@ -1,2 +1,2 @@
 # projetos-java
-## aqui tenho salvo nas branchs codigos simples da linguagem de programação JAVA
+## aqui tenho salvo nas branches codigos simples da linguagem de programação JAVA
